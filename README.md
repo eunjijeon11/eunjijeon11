@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Eunji's Github stats](https://github-readme-stats.vercel.app/api?username=eunjijeon11&show_icons=true)
-![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjijeon11&layout=compact)
 
 <!--
 **eunjijeon11/eunjijeon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
