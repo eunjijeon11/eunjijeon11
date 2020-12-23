@@ -5,5 +5,4 @@
 
 - 🔭 I’m currently working on ctrl_c project
 - 🌱 I’m currently learning java & python
-- ⚡ Fun fact: I need to study for exam...😐
 
