@@ -3,6 +3,6 @@
 
 ![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjijeon11&layout=compact)
 
-- 🔭 I’m currently working on ctrl_c project
+- 🔭 I’m currently studing GAN algorithm
 - 🌱 I’m currently learning java & python
 
