@@ -3,6 +3,6 @@
 
 ![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunjijeon11&layout=compact)
 
-- 🔭 I’m currently studing GAN algorithm
+- 🔭 I’m currently studing Generative Adverserial Network
 - 🌱 I’m currently learning java & python
 
