@@ -5,4 +5,8 @@
 
 - 🔭 I’m currently studing machine learning
 - 🌱 I’m currently learning java & python
+- 🏫 I'm student of Ewha Girls High School
 
+**Contact Me😎**  
+- Instagram: @eunzee__03
+- blog: [naver blog](https://blog.naver.com/eunjiamy)
