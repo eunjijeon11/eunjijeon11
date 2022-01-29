@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently studing machine learning
 - 🌱 I’m currently learning java & python
-- 🏫 I'm student of Ewha Girls High School
+- 🏫 I'm student of SungKyunKwan University
+- 👩‍🎓 I majored in computer education
 
 **Contact Me😎**  
 - Instagram: @eunzee__03
